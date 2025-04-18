@@ -1,4 +1,7 @@
 ## Hi there 👋
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmmele&layout=compact&hide_border=true&theme=dark)
+
+
 
 <!--
 **moisesmmele/moisesmmele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
