@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmmele&layout=compact&hide_border=true&theme=dark&bg_color=0d1118&langs_count=6)
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moisesmmele&layout=compact&hide_border=true&theme=dark&bg_color=0d1117&langs_count=6)
 
 
 <!--
